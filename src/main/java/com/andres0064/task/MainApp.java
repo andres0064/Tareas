@@ -6,6 +6,7 @@ public class MainApp {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Where We are: MainApp main" );
+		System.out.println("Punto de prueba 1");
 
 	}
 
